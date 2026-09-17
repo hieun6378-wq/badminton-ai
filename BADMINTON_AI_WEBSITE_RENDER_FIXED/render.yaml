@@ -1,7 +1,0 @@
-services:
-  - type: web
-    name: badminton-ai
-    runtime: docker
-    plan: free
-    healthCheckPath: /
-    autoDeploy: true
